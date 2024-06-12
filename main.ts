@@ -79,5 +79,118 @@ basic.forever(function () {
         # . . # .
         # # # . .
         `)
-    basic.pause(100)
+    basic.pause(500)
+    basic.showLeds(`
+        # # # . .
+        # . . # .
+        # . . # .
+        # # # # .
+        # . . . .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # . . # .
+        # . . # .
+        # . . # .
+        # . . # .
+        . # # . .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # # # # #
+        . . # . .
+        . . # . .
+        . . # . .
+        . . # . .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        . # # # .
+        # . . . #
+        # . . . #
+        # . . . #
+        . # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # # # . .
+        # . . . .
+        # # # . .
+        # . . . .
+        # # # . .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # . . . .
+        # . . . .
+        # . . . .
+        # . . . .
+        # # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # . . # .
+        # . # . .
+        # # . . .
+        # . # . .
+        # . . # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # # # # .
+        # . . . .
+        # # # . .
+        # . . . .
+        # # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # . . . .
+        # . . . .
+        # . . . .
+        # . . . .
+        # # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        . # # # .
+        # . . . #
+        # . . . #
+        # . . . #
+        . # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # . . . .
+        # . . . .
+        # . . . .
+        # . . . .
+        # # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        # # # # .
+        # . . . .
+        # # # . .
+        # . . . .
+        # # # # .
+        `)
+    basic.pause(500)
+    basic.showLeds(`
+        . . # . .
+        . # . # .
+        # # # # #
+        # . . . #
+        # . . . #
+        `)
+    basic.pause(500)
+    basic.showIcon(IconNames.No)
+    basic.pause(500)
+    basic.showLeds(`
+        # # # . .
+        # . . # .
+        # . . # .
+        # . . # .
+        # # # . .
+        `)
 })
